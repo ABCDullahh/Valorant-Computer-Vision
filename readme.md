@@ -27,14 +27,15 @@ Welcome to the **Crosshair Placement Analyzer** – a powerful tool designed to 
 
 https://github.com/user-attachments/assets/895f4753-45d3-4fa7-bd56-143d7aa8e54a
 
-**RTDETR :**
-
-https://github.com/user-attachments/assets/64edf692-fe6d-4121-a5ab-33eaf7c29e5c
-
 **FastSAM :**
 
 https://github.com/user-attachments/assets/50edbf2d-0497-48a8-a048-930a2ada5d05
 
+**RTDETR :**
+
+https://github.com/user-attachments/assets/64edf692-fe6d-4121-a5ab-33eaf7c29e5c
+
+---
 
 ## Scoring Mechanism 📊
 ### How Your Score is Calculated
