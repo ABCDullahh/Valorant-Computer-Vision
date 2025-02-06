@@ -4,14 +4,37 @@ Welcome to the **Crosshair Placement Analyzer** – a powerful tool designed to 
 
 ## Showcase 🖼️
 ### Example Analysis Results
-![Sample Detection](https://via.placeholder.com/600x400.png?text=Detection+Preview) 
-*Real-time object detection with crosshair tracking*
 
-![Reaction Time Analysis](https://via.placeholder.com/600x200.png?text=Reaction+Time+Statistics) 
-*Detailed reaction time statistics and scoring*
+**YOLO :**
 
-[![Process Demo](https://via.placeholder.com/600x200.png?text=Click+for+Video+Demo)](https://drive.google.com/file/d/1DDehvk27qBc58Vw5z4k-6pWjCzS26XCI/view?usp=sharing)  
-*(Hypothetical GIF placeholder - actual implementation would show processed video with crosshair tracking)*
+![Screenshot_328](https://github.com/user-attachments/assets/1061c54e-85a3-46e4-9ce8-f333bdbf0be8)
+
+**FastSAM :**
+
+![Screenshot_329](https://github.com/user-attachments/assets/89709264-ab16-433b-9469-5730e41e54bd)
+
+**RTDETR :**
+
+![Screenshot_330](https://github.com/user-attachments/assets/111ffc64-b07f-4191-ac06-105145409c2c)
+
+
+---
+
+
+### Example Detections Results
+
+**YOLO :**
+
+https://github.com/user-attachments/assets/895f4753-45d3-4fa7-bd56-143d7aa8e54a
+
+**RTDETR :**
+
+https://github.com/user-attachments/assets/64edf692-fe6d-4121-a5ab-33eaf7c29e5c
+
+**FastSAM :**
+
+https://github.com/user-attachments/assets/50edbf2d-0497-48a8-a048-930a2ada5d05
+
 
 ## Scoring Mechanism 📊
 ### How Your Score is Calculated
@@ -92,9 +115,6 @@ pip install opencv-python numpy Pillow ttkbootstrap ultralytics joblib
 - RAM: 8GB+ for HD analysis
 - OS: Windows/Linux (64-bit)
 
----
-
-[![Follow Development](https://via.placeholder.com/600x100.png?text=Visit+GitHub+for+Latest+Updates)](https://github.com/yourrepo)  
 *Stay tuned for v1.1 with TensorRT acceleration and advanced heatmap analysis!*
 
 ---
